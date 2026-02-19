@@ -13,7 +13,7 @@ A modern, clean, and minimal Roblox UI Library — free & easy to set up.
 
 ## Usage
 ```lua
-local NexusUI = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+local NexusUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Defy-cloud/Nexus-UI/refs/heads/main/UI%20Library"))()
 
 local Win = NexusUI:CreateWindow({
     Title     = "NexusUI",
